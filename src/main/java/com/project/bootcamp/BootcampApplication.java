@@ -23,6 +23,5 @@ public class BootcampApplication {
 				.version("1.0")
 				.termsOfService("http://swagger.io/terms")
 				.license(new License().name("Apacje 2.0").url("http://springdoc.org")));
-
 	}
 }
